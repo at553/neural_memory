@@ -1,4 +1,4 @@
-# neuralmemory
+# neural_memory
 Image reproduction in Tensorflow
 
 ## What is this?
