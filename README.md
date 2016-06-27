@@ -18,3 +18,13 @@ No, at least not in its current state. I am new to Tensorflow, and am still work
 
 ## Upcoming Features
 This scheme makes use of Convolutional networks. While extremely powerful in many imaging applications, these are probably not the optimal choice. Some recent additional reading on the subject has convinced me that use of Recurrent networks, with Long Short Term Memory neurons, applied in a time series-like scheme is the best way to go. Implementing such a scheme is definitely on my to-do list, and I will update this repo when I have had the chance to make some progress in that area.
+
+## Further Reading 
+Here are some papers that I found interesting/useful/inspirational for starting this project:
+
+http://www.wseas.us/e-library/conferences/2008/tenerife/CD-CSECS/papers/CSECS21.pdf
+http://mattmahoney.net/dc/mmahoney00.pdf
+http://arxiv.org/pdf/1308.0850.pdf
+http://arxiv.org/pdf/1511.06085v5.pdf
+
+If you want to help improving or using this code or some derivative in another application, feel free to fork this repo.
