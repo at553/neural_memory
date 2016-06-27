@@ -23,8 +23,11 @@ This scheme makes use of Convolutional networks. While extremely powerful in man
 Here are some papers that I found interesting/useful/inspirational for starting this project:
 
 http://www.wseas.us/e-library/conferences/2008/tenerife/CD-CSECS/papers/CSECS21.pdf
+
 http://mattmahoney.net/dc/mmahoney00.pdf
+
 http://arxiv.org/pdf/1308.0850.pdf
+
 http://arxiv.org/pdf/1511.06085v5.pdf
 
 If you want to help improving or using this code or some derivative in another application, feel free to fork this repo.
