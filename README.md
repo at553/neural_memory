@@ -18,7 +18,7 @@ Another area of application worth looking into is image reconstruction.
 No, at least not in its current state. I am new to Tensorflow, and am still working out ways to circumvent some of the limitations which stem from how Tensorflow actually stores information about a trained network in memory.
 
 ## Upcoming Features
-This scheme makes use of Convolutional networks. They were primarily chosen because of their efficiency in training and prediction time, which is important for practicality and scalability. 
+This scheme makes use of a multi-layer perceptron, or DNN. This technique was chosen because of its efficiency in training and prediction time, which is important for practicality and scalability. 
 
 In terms of raw accuracy, some recent additional reading on the subject has convinced me that use of Recurrent networks, with Long Short Term Memory neurons, used in the context of time-series prediction, is likely the best way to go. Implementing such a scheme is definitely on my to-do list, and I will update this repo when I have had the chance to make some progress in that area.
 
