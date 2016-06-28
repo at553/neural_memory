@@ -4,8 +4,9 @@ Image reproduction in Tensorflow
 ## What is this?
 This is a script I wrote to demonstrate a potential scheme for visual information storage and reproduction via neural processing. 
 
-## Why did you make this?
 I wanted to explore some potential ideas relating to information compression and reproduction using neural processing. This sample script creates and trains a neural network on a 20x34 pixel sample grayscale image (provided) and then uses this trained network to reproduce the image (of course, without any information from the original image itself). 
+
+To run, just clone the repo into a local directory, cd into it, and then run python neural_memory.py
 
 NOTE: The included picture is a .PNG, but it is converted to a .BMP file and processed as such
 
